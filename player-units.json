@@ -1,0 +1,20 @@
+{
+  "0": {
+    "name": "Cat",
+    "description": "The basic cat. Cheap to produce but doesn't do much damage.",
+    "attack": "2",
+    "health": "10",
+    "speed": "10", // speed per update
+    "kb": "3", // kbs before dying
+    "range": "100" // range in pixels
+  },
+  "1": {
+    "name": "Chonky Cat",
+    "description": "Just look at him, he's a hecking chonker!",
+    "attack": "1",
+    "health": "20",
+    "speed": "6", // speed per update
+    "kb": "3", // kbs before dying
+    "range": "100" // range in pixels
+  }
+}
