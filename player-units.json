@@ -7,6 +7,7 @@
     "speed": "10",
     "kb": "3",
     "range": "100"
+    "spriteUrl": "https://vignette.wikia.nocookie.net/battle-cats-app/images/c/cb/Main.png"
   },
   "1": {
     "name": "Chonky Cat",
@@ -15,6 +16,7 @@
     "health": "20",
     "speed": "6",
     "kb": "3",
-    "range": "100"
+    "range": "100",
+    "spriteUrl": "https://vignette.wikia.nocookie.net/battle-cats/images/a/a1/4420133C-50EC-4663-8B7C-9E84596917F1.png"
   }
 }
