@@ -4,17 +4,17 @@
     "description": "He's adorably evil.",
     "attack": "2",
     "health": "15",
-    "speed": "10", // speed per update
-    "kb": "3", // kbs before dying
-    "range": "100" // range in pixels
+    "speed": "10",
+    "kb": "3",
+    "range": "100"
   },
   "1": {
     "name": "Chonky Doggo",
     "description": "He's a chonky boi! Here's a quote from him: \"h\"",
     "attack": "1",
     "health": "30",
-    "speed": "6", // speed per update
-    "kb": "3", // kbs before dying
-    "range": "100" // range in pixels
+    "speed": "6",
+    "kb": "3",
+    "range": "100"
   }
 }
