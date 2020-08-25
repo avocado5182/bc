@@ -6,7 +6,8 @@
     "health": "15",
     "speed": "10",
     "kb": "3",
-    "range": "100"
+    "range": "100",
+    "spriteUrl": "https://www.spriters-resource.com/resources/sheet_icons/83/85699.png"
   },
   "1": {
     "name": "Chonky Doggo",
@@ -16,5 +17,6 @@
     "speed": "6",
     "kb": "3",
     "range": "100"
+    "spriteUrl": "https://www.spriters-resource.com/resources/sheet_icons/83/85845.png"
   }
 }
